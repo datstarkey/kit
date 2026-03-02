@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 2.53.5
+### Patch Changes
+
+
+- fix: don't wait for remote functions that are not awaited in the template ([#15280](https://github.com/sveltejs/kit/pull/15280))
+
 ## 2.53.4
 ### Patch Changes
 
